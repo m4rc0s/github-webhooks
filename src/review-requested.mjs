@@ -18,4 +18,3 @@ app.post("/review-requested", (request, response) => {
 app.listen(4545, () => {
   console.log("Github Webhook Started!")
 })
-
